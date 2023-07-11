@@ -1,0 +1,120 @@
+#zomato_name{
+    
+    height:30px;
+    margin-left:120px;
+    margin-top:20px;
+    
+}
+#location{
+    margin-left:50px;
+    width:300px;
+    padding:15px 15px; 
+    box-shadow:2px 2px  grey;
+    
+    
+}
+#search{
+    width:300px;
+    padding:15px 15px; 
+    box-shadow:2px 2px  grey;
+    
+    
+}
+#login{
+    color: gray;
+    text-decoration: none;
+    margin-left:20px;
+    font-size: 20px;
+}
+#delivery{
+    color:gray;
+    text-decoration: none;
+    font-size:20px;
+    margin-bottom: 40px;
+}
+
+#word a:hover{
+    color: red;
+}
+#logo{
+    height: 70px;
+    margin-left:40px;
+}
+#footer{
+background-color:#F8F8F8;
+
+}
+#footer_zomato{
+    height: 30px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#country{
+    width:90px;
+    font-size: 20px;
+    margin-left:600px;
+    padding:10px;
+}
+#lan{
+    width:90px;
+    font-size: 20px;
+    padding:10px;
+}
+#toppp{
+    display:flex;
+}
+#about_zomato{
+    margin-left:50px;
+    font-size: 20px;
+}
+#foo{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+#foo div h2{
+    margin-left: 50px;
+    font-size: 20px;
+    color:lightslategray;
+}
+#foo div{
+    padding: 10px;
+}
+#foo1 a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 50px;
+    color: gray;
+    padding:5px;
+}
+.app{
+    width:150px;
+    height: 50px;
+    margin-left: 40px;
+}
+p{
+    margin-left: 50px;
+    padding: 20px;
+    color: gray;
+}
+header div{
+    margin-top:10px;
+}
+#delivery_link{
+    display: flex;
+    flex-direction: row;
+}
+.click{
+    width:fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#li{
+    margin-left: 130px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
