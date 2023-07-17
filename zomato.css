@@ -40,6 +40,47 @@
     height: 70px;
     margin-left:40px;
 }
+
+
+#body_div{
+    background-color: #F8F8F8;
+}
+#body_div h1{
+    margin-left: 120px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.shape{
+    border-radius: 50%;
+    height:150px;
+
+    margin-top:50px;
+}
+#biriyani{
+
+    width: fit-content;
+    height: fit-content;
+    color: gray;
+}
+#section{
+    display: flex;
+    flex-direction: row;
+}
+#section div{
+    width: fit-content;
+}
+#se{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+
+
+
 #footer{
 background-color:#F8F8F8;
 
